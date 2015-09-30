@@ -1,2 +1,7 @@
 terraform.tfvars
+graph.pdf
+graph.dot
+terraform.tfstate.backup
+ssh/*
+*.sublime-workspace
 
